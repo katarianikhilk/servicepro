@@ -1,5 +1,5 @@
 # ServicePro
-ServicePro is a platfrom where customer can find service centers for top electronic brands. Service centers owners can add their servieces and servrice centers to our plateform ServicePro. ServicePro provide services and service centers list where customers can find the services and service centers according to the Items they need.
+ServicePro is a platfrom where customer can find service centers for top electronic brands. Service centers owners can add their services and service centers to our plateform ServicePro. ServicePro provide services and service centers list where customers can find the services and service centers according to the Items they need.
 ![](nearbyservice-main/screenshots/homepage.png)
 
 # Features
